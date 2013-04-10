@@ -6,7 +6,7 @@ Release Notes
 
 .. _rel-3.0.0-BETA2:
 
-v3.0.0-BETA2-SNAPSHOT
+v3.0.0.vivo_2
 =====================
 
 * ``MetricRegistry`` no longer has a name.
